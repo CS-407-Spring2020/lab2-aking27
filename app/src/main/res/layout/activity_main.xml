@@ -33,7 +33,7 @@
 
     <EditText
         android:id="@+id/myTextField"
-        android:layout_width="409dp"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
